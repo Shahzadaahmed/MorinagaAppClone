@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>343335555154-0j0v3pd3ldhkj4fl0fcfs64jqjk62tfo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.343335555154-0j0v3pd3ldhkj4fl0fcfs64jqjk62tfo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>343335555154-5rl3flkjec2lqkc5iulvk5ql1gn9ofh5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzbtE4vfoafq9b3u-FKbmdkUaJtylF5Ug</string>
+	<key>GCM_SENDER_ID</key>
+	<string>343335555154</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.morinaga</string>
+	<key>PROJECT_ID</key>
+	<string>morinaga-9bd8a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>morinaga-9bd8a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:343335555154:ios:d5fa3f35fafdad29a2cf8b</string>
+</dict>
+</plist>

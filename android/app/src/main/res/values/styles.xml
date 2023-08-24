@@ -1,0 +1,6 @@
+<resources>
+
+  <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+      <!-- Your base theme customization -->
+  </style>
+</resources>

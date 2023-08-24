@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343335555154",
+    "project_id": "morinaga-9bd8a",
+    "storage_bucket": "morinaga-9bd8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343335555154:android:b31399b7696f0dd6a2cf8b",
+        "android_client_info": {
+          "package_name": "com.morinaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343335555154-5rl3flkjec2lqkc5iulvk5ql1gn9ofh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.morinaga",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "343335555154-t0blusvm54b784qmqt6n8nnisr310f1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsj5kPK-iE4nFjw6IQ4uI4ScaqOYg98nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343335555154-t0blusvm54b784qmqt6n8nnisr310f1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
